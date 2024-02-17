@@ -2,7 +2,6 @@
 <h1 align="center">Hello👋, I'm Aufaa Husniati</h1>
 <h3 align="center">Front-End and Back-End Cohort at Dicoding Indonesia 2024 | Undergraduate Informatics Engineering student at Pasundan University</h3>
 
-- 🔭
 - 📫 How to reach me - Drop an email at [aufaahsnt21@gmail.com] 
 - ⚡ Fun fact - Exploring Latest Technologies. 
 
